@@ -1,2 +1,2 @@
 # Asymmetric-Encryption-test
-Demonstration of asymmetric encryption
+Demonstration of RSA asymmetric encryption
